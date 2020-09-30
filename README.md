@@ -54,4 +54,4 @@ You are required to submit the following:
 
 * The URL to the GitHub repository
 
-![Burger Demo](demo/Fitness Tracker.gif)
+![Fitness Demo](demo/Fitness-Tracker!.gif)
