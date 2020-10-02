@@ -53,5 +53,10 @@ You are required to submit the following:
 * The URL to the deployed application
 
 * The URL to the GitHub repository
-
+## User Story
+## Instructions
+## Built With
+## Deployed App Link for Heroku
+## gif Demo
 ![Fitness Demo](demo/Fitness-Tracker!.gif)
+## Owner
